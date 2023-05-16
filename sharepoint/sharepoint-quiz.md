@@ -262,14 +262,14 @@
 #### Q33. A user wants to be notified when a certain file changes. What can achieve this?
 
 - [ ] an object alert
-- [ ] a document alert
+- [x] a document alert
 - [ ] a site alert
 - [ ] a library alert
 
 #### Q34. When a user tries to create a new document in a SharePoint library, the default option is not Microsoft Word. What setting do you need to change in the library?
 
 - [ ] site template
-- [ ] document template
+- [x] document template
 - [ ] versioning
 - [ ] audience targeting
 
@@ -341,20 +341,20 @@
 #### Q41. You are using SharePoint Online. While the modern user experience has improved features, many users are more familiar with the classic experience. As a result, you decide to set the defaults to the classic experience. At what levels can this default be set?
 
 - [ ] tenant, site
-- [ ] site collection, tenant
+- [x] site collection, tenant
 - [ ] library, list, site, site collection
 - [ ] library, list
 
 #### Q42. You would like to use a SharePoint list app while traveling. What allows access to the app without directly interacting with SharePoint?
 
-- [ ] PowerApps
+- [x] PowerApps
 - [ ] Forms
 - [ ] Power Automate
 - [ ] Delve
 
 #### Q43. During the creation of a SharePoint site, permission inheritance was selected. Now the site owner wants to create brand-new permissions. How can the site owner accomplish this?
 
-- [ ] Disable inheritance and set new permissions.
+- [x] Disable inheritance and set new permissions.
 - [ ] Delete inheritance and apply new permissions.
 - [ ] Create a new site.
 - [ ] Re-create the site in place without inheritance.
@@ -362,7 +362,7 @@
 #### Q44. Your organization wants everyone to create new documents using specific formats. How can you implement this in SharePoint?
 
 - [ ] Create a workflow that sends all documents to a single document library where a user can convert them to the organization's desired format.
-- [ ] Create a custom default document templates as the basis for all new files in the SharePoint document libraries.
+- [x] Create a custom default document templates as the basis for all new files in the SharePoint document libraries.
 - [ ] Create a policy that allows only documents using the organization's desired format to be added to the SharePoint document libraries.
 - [ ] Create a flow that converts the formats of all documents in SharePoint to the organization's desired format.
 
@@ -371,12 +371,12 @@
 - [ ] in the root site of a site collection
 - [ ] in each individual site level
 - [ ] in any site content library and site settings
-- [ ] in any site via the Site Settings option
+- [x] in any site via the Site Settings option
 
 #### Q46. You are configuring search options for a SharePoint site. Which statement regarding indexing is true?
 
 - [ ] When a top-level site is excluded from indexing, the remaining site in the collection can still be indexed.
-- [ ] When a site is excluded from indexing, the subsites are still indexed.
+- [x] When a site is excluded from indexing, the subsites are still indexed.
 - [ ] When a site is excluded from indexing, so are the subsites.
 - [ ] When a top-level site is excluded from indexing, the entire collection is excluded.
 
@@ -391,26 +391,26 @@
 
 - [ ] The Quick Launch toolbar displays links to other groups for easy access.
 - [ ] The top navigation menu in SharePoint is updated with links to groups for easy access.
-- [ ] The current group membership page provides shortcuts at the bottom of the page to other groups.
+- [x] The current group membership page provides shortcuts at the bottom of the page to other groups.
 - [ ] The Getting Started links are updated with groups for easy access.
 
 #### Q49. A user mentios that a list in one site seems different in another site, although the lists are essentially the same. What settings is causing the discrepancy between the lists?
 
 - [ ] the object permissions
 - [ ] the user permissions
-- [ ] the list experience settings
+- [x] the list experience settings
 - [ ] the site template settings
 
 #### Q50. How can you set up users to add a status option of an item in a document library?
 
 - [ ] Create a flow to automate the updating of the item status.
-- [ ] Add a Choice column to the library with a list of status options, and require that the column contain information.
+- [x] Add a Choice column to the library with a list of status options, and require that the column contain information.
 - [ ] Add a column where users can type in the status of the item, and require that the column contain information.
 - [ ] Create a flow to add the Choice column each time an item is added to the document library.
 
 #### Q51. You need to build a new SharePoint subsite for your organization. What site template categories are available by default?
 
-- [ ] Collaboration, Enterprise, Publishing
+- [x] Collaboration, Enterprise, Publishing
 - [ ] Team Site, Blog, Document Center
 - [ ] Team Site, Blog, Community Site
 - [ ] Community Site, Blog, Developer Site
@@ -419,7 +419,7 @@
 
 - [ ] owners, readers
 - [ ] visitors, managers
-- [ ] approvers, designers
+- [x] approvers, designers
 - [ ] members, visitors
 
 #### Q53. A user asks you to add a photo repository to a SharePoint site. You inform the user that SharePoint has a prebuilt application that fulfills the need. What type of application is this?
@@ -427,25 +427,25 @@
 - [ ] Collection
 - [ ] Site
 - [ ] List
-- [ ] Library
+- [x] Library
 
 #### Q54. You want to allow users to install site add-ins for a SharePoint farm. What must you configure first?
 
 - [ ] an App URL
 - [ ] an app request
 - [ ] an App store
-- [ ] an App Catalog
+- [x] an App Catalog
 
 #### Q55. You are tasked with configuring Business Connectivity Services (BCS) for SharePoint. Which BCS data source uses HTTP, Atom, and JavaScript Object Notation (JSON) to connect to web-based data?
 
 - [ ] SQL Azure
 - [ ] Windows Communication Foundation
 - [ ] SQL Server
-- [ ] Open Data
+- [x] Open Data
 
 #### Q56 What is the easiest way to assign permissions to multiple SharePoint sites for multiple users?
 
 - [ ] By Users
-- [ ] By Groups
+- [x] By Groups
 - [ ] By site levels
 - [ ] By sites
