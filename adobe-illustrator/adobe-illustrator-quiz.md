@@ -713,3 +713,17 @@
 - [ ] Make a pattern.
 
 [Adobe Help: Combine objects](https://helpx.adobe.com/illustrator/using/combining-objects.html)
+
+#### Q92. You're working on a complex document with many collapsed layers. You have an object selected in the document window. How can you quickly find it in the Layers panel?
+
+- [ ] Select **Show All Layers** from the **Layers** panel menu.
+- [ ] Click the **Locate Object** button on the **Layers** panel.
+- [x] Click **Object** > **Show All**
+- [ ] Click **Object** > **Arrange** > **Bring to Front**
+
+#### Q93. You have drawn a five-pointed star in a design and want to change the inner radius. How would you achieve this?
+
+- [ ] An Inner Radius of a Star cannot be modified and would have to be redrawn.
+- [ ] Use the Scale tool while holding down Option+Shift (Mac) or Alt+Shift (Windows).
+- [x] Select the inner points, then use the Scale tool to uniformly change the radius.
+- [ ] Double-click the Star tool and change the Inner Radius option.
