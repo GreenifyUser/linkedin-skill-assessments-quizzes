@@ -692,3 +692,40 @@ SELECT bal FROM Account WHERE acct='12345';
 - [ ] smalldatetime
 - [ ] datetime
 - [ ] datetime2
+
+#### Q55. You create a table called Students with the following command. Later, you decide that a clustered index better fits your needs. What command(s) should you run?
+
+```tsql
+CREATE TABLE Students (
+    StudentID int NOT NULL,
+    StudentName nvarchar(50),
+CONSTRAINT PK_StudentID PRIMARY KEY NONCLUSTERED (StudentID)
+);
+```
+
+- [ ] :
+
+```tsql
+DROP CONSTRAINT PK_StudentID ON Students;
+
+UPDATE TABLE Students
+ADD CONSTRAINT PK_StudentID PRIMARY KEY CLUSTERED(StudentID);
+```
+
+- [ ] :
+
+```tsql
+ALTER TABLE Students
+DROP CONSTRAINT PK_StudentID
+ADD CONSTRAINT PK_StudentID PRIMARY KEY CLUSTERED (StudentID)
+```
+
+- [x] :
+
+```tsql
+ALTER TABLE Students
+DROP CONSTRAINT PK_StudentID
+
+ALTER TABLE Students
+ADD CONSTRAINT PK_StudentID PRIMARY KEY CLUSTERED (StudentID);
+```
