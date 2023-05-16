@@ -180,7 +180,7 @@
 #### Q26. When viewing an XML file in Eclipse, how can you view the file in a visual hierarchy (as opposed to code alone)?
 
 - [ ] You cannot do this in Eclipse.
-- [ ] Select the Editor tab for the XML file and then click the Design tab at the bottom of the editor window.
+- [x] Select the Editor tab for the XML file and then click the Design tab at the bottom of the editor window.
 - [ ] Double-click the open tab in the Editor.
 - [ ] In the Package Explorer, right-click the file and select Open With > Desgign Editor.
 
@@ -198,18 +198,18 @@
 - [ ] It links the Editor and Navigator, causing the Editor to switch to the file selected in the Package Explorer and vice versa.
 - [ ] It expands Libraries when you are in the Java perspective.
 - [ ] It minimizes the left view
-- [ ] It collapses open folders in the Package Explorer view.
+- [x] It collapses open folders in the Package Explorer view.
 
 #### Q29. Why might you create multiple debug configurations for the same project?
 
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] to debug using a different JRE
 - [ ] to customize environment variables
 - [ ] to customize arguments
 
 #### Q30. You are searching for code using the Search dialog, and no results appear. What is a likely cause?
 
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] The scope of the search is too narrow.
 - [ ] The type of search is not appropriate for the language of the code.
 - [ ] There is a typo in the search parameters.
@@ -233,19 +233,19 @@
 - [ ] view the Design and Source tabs of one XML file at the same time
 - [ ] drag code from one Editor pane into another
 - [ ] split the editor either horizontally or vertically
-- [ ] all of these answers
+- [x] all of these answers
 
 #### Q34. Why might you run the Project > Clean command?
 
 - [ ] to remedy an issue where the source code seemsaccurate, but Git is indicating a merge conflict
 - [ ] to remedy syntax errors within the source code, causing the project not to build
-- [ ] to discard any existing build state before building the project, which can remedy issues where the source code seems accurate yet fails to build
+- [x] to discard any existing build state before building the project, which can remedy issues where the source code seems accurate yet fails to build
 - [ ] to recompile only the source code files that have changed since the last build, which can shorten the build time for long-running builds
 
 #### Q35. How can you terminate debugging in the Debug view?
 
 - [ ] Right-click an item in the stack trace and select Terminate/Disconnect All.
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] Right-click your application and select Terminate.
 - [ ] Right-click a thread and select Terminate and Remove.
 
