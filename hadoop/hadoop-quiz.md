@@ -511,3 +511,24 @@ FROM customers c;
 - [ ] validate metadata; Impala
 - [ ] invalidate metadata; Hive
 - [ ] validate metadata; Hive
+  
+#### Q72. In hadoop simple mode, which object determines the identity of a client process?
+
+- [ ] kubernetes token
+- [x] host operating system
+- [ ] kerberos ticket
+- [ ] guest operating system
+  
+#### Q73. In hadoop mapreduce job code, what must be static?
+
+- [x] Mapper and reducer
+- [ ] reducer
+- [ ] mapper
+- [ ] configuration
+  
+ #### Q74. What library should you use to perform etl-type map reduce jobs?
+
+- [ ] hive 
+- [ ] mahout
+- [x] pig
+- [ ] impala
