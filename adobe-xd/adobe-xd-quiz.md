@@ -161,41 +161,56 @@
 
 #### Q22. Adobe Experience Design (XD) is marketed as a **\_\_\_** application.
 
-- [] web design
-- [] screen layout
+- [ ] web design
+- [ ] screen layout
 - [x] screen prototyping
-- [] mobile design
+- [ ] mobile design
 
 #### Q23. What is the maximum number of interactions that can be applied to a selected element?
 
-- [] two
-- [] four
+- [ ] two
+- [ ] four
 - [x] three
-- [] one
+- [ ] one
 
 #### Q24. Four more artboards for your current XD project have been created in Photoshop. How would you add them to your XD project?
 
 - [x] Import the .psd into the document.
-- [] Place the .psd into an XD artboard.
-- [] Import one artboard at a time.
-- [] Open the .psd in XD.
+- [ ] Place the .psd into an XD artboard.
+- [ ] Import one artboard at a time.
+- [ ] Open the .psd in XD.
 
 #### Q25. How can you apply a hover and a tap trigger interaction to one object in XD?
 
-- [] Create multiple duplicate artboards.
-- [] You cannot apply hover and tap interactions to one object.
-- [] Create multiple, layered shapes.
+- [ ] Create multiple duplicate artboards.
+- [ ] You cannot apply hover and tap interactions to one object.
+- [ ] Create multiple, layered shapes.
 - [x] Create component states.
 
 #### Q26. When a menu slides in over the artboard and the artboard blurs, what effect has been applied?
 
 - [x] background blur
-- [] Darken Blend mode
-- [] color overlay
-- [] object blur
+- [ ] Darken Blend mode
+- [ ] color overlay
+- [ ] object blur
 
 #### Q27. What does a folder icon in the Layers panel indicate?
 
--[] a symbol
--[] a component -[x] a group
--[] a screen element
+- [ ] a symbol
+- [ ] a component 
+- [x] a group
+- [ ] a screen element
+
+#### Q28. How would you publish your design system for your developer to use?
+
+- [ ] Click Share > Design Review.
+- [x] Click Share > Development.
+- [ ] Click Share > Custom.
+- [ ] Click Share > User Testing.
+
+#### Q29. What does clicking Add-ons in the XD Home screen provide access to?
+
+- [ ] XD app extensions
+- [x] UI kits
+- [ ] your Creative Cloud library
+- [ ] XD tutorials
