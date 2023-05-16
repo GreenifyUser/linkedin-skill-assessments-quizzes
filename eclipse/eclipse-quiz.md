@@ -304,3 +304,10 @@
 - [x] Click Run > Run Configurations > Arguments.
 - [ ] Right-click the project and select Arguments.
 - [ ] Click Run > Debug Configurations > Arguments.
+
+#### Q44. Why might you use the Open Type button?
+
+- [ ] to find all places where a certain type is instantiated
+- [ ] to find a string in a text file
+- [ ] to open a file by its name
+- [x] to search the Workbench for a class to open in an editor
