@@ -932,3 +932,12 @@ Explaination: [Primary indicates that a bean should be given preference when mul
 - [ ] Spring MVC
 - [x] Spring Bootstrap
 - [ ] Spring Cloud
+
+#### Q88. Which Actuator endpoint might have returned this response?
+```java
+{"status":"UP"}
+```
+- [ ] /info
+- [ ] /metrics
+- [ ] /conditions
+- [x] /health
