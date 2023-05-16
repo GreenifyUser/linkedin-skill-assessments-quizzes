@@ -605,3 +605,16 @@ let pt = Point2D(-1.0, 2.0)
 - [ ] assert!()
 
 [Reference](https://doc.rust-lang.org/std/macro.assert_eq.html)
+    
+#### Q53. What does let = s2 = s1; do here?
+
+    ```rust
+fn main() {
+    let s1 = String::from("hello");
+    let s2 = s1;
+}
+```
+- [ ] It copies the entire string on the heap without the capacity and length.
+- [ ] It copies the entire string on the stack along with the capacity and length.
+- [x] It points to the same contents on the heap and copies the length and capacity.
+- [ ] It clones the entire string on the stack along with the capacity and length.
