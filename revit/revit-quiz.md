@@ -103,3 +103,17 @@
 - [x] Reverse Print Order
 - [ ] Last Sheet to Bottom
 - [ ] Set Sheets to Plot in Reverse
+
+#### Q15. What function allows a user to remove ownership from a borrowed element without synchronizing the model?
+
+- [ ] Remove My Workset
+- [ ] Remove Assigned Worksets
+- [ ] Discrad Mine
+- [x] Relinquish All Mine
+
+#### Q16. While sketching a ceiling, what condition must be satisfied in order to commit the sketch?
+
+- [ ] a space enclosed by walls
+- [ ] one or more open loops
+- [ ] a single closed loop
+- [x] one or more closed loops
