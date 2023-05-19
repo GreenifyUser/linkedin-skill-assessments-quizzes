@@ -22,33 +22,33 @@
 
 ![Q3](images/question_3.jpg)
 
-- [x] The selected text was not formatted using the style definition.
+- [ ] The selected text was not formatted using the style definition.
 - [ ] The selected text is in overset text outside the boundaries of the current frame.
-- [ ] The style has been applied to two or more paragraphs.
+- [x] The style has been applied to two or more paragraphs.
 - [ ] The style has been added since the master styles were created.
 
 [Ref.](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html)
 
 #### Q4. You want to ensure that an image on your page is exactly 25% of its original size. How can you determine whether the image is set to the desired size?
 
-- [x] Double-click the image with the Selection tool.
+- [ ] Double-click the image with the Selection tool.
 - [ ] Select the graphic frame with the Selection tool.
-- [ ] Click **Window** > **Info**.
+- [x] Click **Window** > **Info**.
 - [ ] Click **Object** > **Fitting**.
 
 #### Q5. You have an empty one-page InDesign document. You have used File > Place to select a Word document that contains many pages of text. What will help you place the full story quickly?
 
-- [ ] Select **Show Import Options** in the **Place** dialog box.
+- [x] Select **Show Import Options** in the **Place** dialog box.
 - [ ] Right-click the page with the place cursor.
-- [x] Shift-click with the place cursor inside the margin guides.
+- [ ] Shift-click with the place cursor inside the margin guides.
 - [ ] In the **Pages** panel, click the **New Pages** button with the place cursor.
 
 #### Q6. You select a graphic frame that contains a Photoshop image and use the Scale field in the Control panel to enlarge it to 200%. What happens to the effective image resolution?
 
 - [ ] The resolution doubles.
-- [ ] Effective image resolution stays the same until you choose from the View > Display Performance menu.
+- [x] Effective image resolution stays the same until you choose from the View > Display Performance menu.
 - [ ] Effective image resolution is set in Photoshop, not in InDesign, so it stays the same.
-- [x] The resolution is cut in half.
+- [ ] The resolution is cut in half.
 
 #### Q7. What is one reason you might want to use the Text Variables feature?
 
@@ -76,7 +76,7 @@
 ![Q10](images/question_10.jpg)
 
 - [ ] Drag the blue square D.
-- [ ] Drag the side handle B
+- [ ] Drag the side handle B (maybe)
 - [x] Drag the slanted line A.
 - [ ] Drag the center tick mark C.
 
@@ -90,23 +90,23 @@
 #### Q12. What action can the Pen tool perform on a selected object?
 
 - [ ] The Pen tool cannot affect an object after it has been created.
-- [ ] You can click a point to convert it to a curve.
+- [x] You can click a point to convert it to a curve.
 - [ ] You can drag the Pen tool inside a frame to convert it to a compound shape.
-- [x] You can click a point to delete it.
+- [ ] You can click a point to delete it.
 
 #### Q13. What is one reason you might want to use the Span Columns feature?
 
-- [x] You have a bullet list of six items that you want to split into two columns in the middle of a text frame.
+- [ ] You have a bullet list of six items that you want to split into two columns in the middle of a text frame.
 - [ ] You are changing the number of columns on a page and want to ensure the text flows properly.
 - [ ] You want a line or top shaded borded to span across the top of a multicolumn frame.
-- [ ] You have a heading that you want to span across two threaded text frames
+- [x] You have a heading that you want to span across two threaded text frames
 
 #### Q14. Which statement about tables is true?
 
-- [x] Tables are always anchored in a story in a text frame.
+- [ ] Tables are always anchored in a story in a text frame.
 - [ ] To edit text in a table, you should first click **Table>Convert Table to Text**
 - [ ] Tables must contain more than one cell.
-- [ ] Tables cannot be anchored in a story in a text frame
+- [x] Tables cannot be anchored in a story in a text frame
 
 #### Q15. Which feature would you use to create the effect shown, where the grouped circles blend with each other but not the object behind them?
 
@@ -129,8 +129,8 @@
 #### Q17. To resize any frame and its contents and maintain the proportions of both, which key or keys must you press while dragging from a corner handle?
 
 - [ ] Ctrl (Windows) or Command (Mac)
-- [ ] Alt+Shift (Windows) or Option+Shift (Mac)
-- [x] Ctrl+Shift (Windows) or Command+Shift (Mac)
+- [x] Alt+Shift (Windows) or Option+Shift (Mac)
+- [ ] Ctrl+Shift (Windows) or Command+Shift (Mac)
 - [ ] Alt+Spacebar (Windows) or Options+Spacebar (Mac)
 
 #### Q18. In the image shown, what can you infer about how this document will print?
@@ -153,49 +153,49 @@
 
 - [ ] color mode (RGB or CMYK)
 - [ ] color stops
-- [x] angle
-- [ ] type (linear or radial)
+- [ ] angle
+- [x] type (linear or radial)
 
 #### 21. Which export format lets you gather viewer stats, such as number of views?
 
-- [ ] Publish online
+- [x] Publish online
 - [ ] PDF (Interactive)
-- [x] EPUB (Fixed Layout)
+- [ ] EPUB (Fixed Layout)
 - [ ] InDesign Snippet
 
 #### 22. You create an InDesign document with 1/8" bleed. After laying out the project, the printer calls to say that items in the document do not bleed. What is most likely the problem?
 
-- [ ] You did not extend elements on the page to the bleed guide.
+- [x] You did not extend elements on the page to the bleed guide.
 - [ ] Image objects cannot bleed in InDesign.
-- [x] Your printer is unable to print with bleed.
+- [ ] Your printer is unable to print with bleed.
 - [ ] You used a color swatch that cannot bleed.
 
 #### 23. What are two differences between the PDF/X-1a and the PDF/X-4 PDF export presets?
 
-- [ ] spot colors and bleed values
-- [x] transparency and RGB images
+- [x] spot colors and bleed values
+- [ ] transparency and RGB images
 - [ ] compression and flattener settings
 - [ ] tagged text and accessibility options
 
 #### 24. Suppose you have selected a graphic frame that contains an image. Now you use File > Place and select another photograph. By default, what happens?
 
 - [ ] The new image is placed inside the frame with the original image.
-- [ ] The new image is placed in a new frame in the same location as the original image.
+- [x] The new image is placed in a new frame in the same location as the original image.
 - [ ] InDesign displays an error.
-- [x] The new image replaces the original image.
+- [ ] The new image replaces the original image.
 
 #### 25. What does the icon to the right of the page thumbnail indicate?
 
 - [ ] The page thumbnail in the Pages panel appears rotated.
 - [ ] The page appears rotated in the document window, but will print unrotated.
-- [ ] There are one or more items on this page that are rotated or flagged for rotation.
-- [x] The page is marked to be rotated when exported or printed.
+- [x] There are one or more items on this page that are rotated or flagged for rotation.
+- [ ] The page is marked to be rotated when exported or printed.
 
 #### 26. Suppose you place text in a frame, but the text is too close to the frame edge. What feature will help you adjust this?
 
 - [ ] Object > Arrange
-- [x] Type > Insert White Space
-- [ ] Object > Text Frame Options
+- [ ] Type > Insert White Space
+- [x] Object > Text Frame Options
 - [ ] Window > Text Wrap
 
 #### 27. Which feature helps you open or close sets of panels in the user interface?
@@ -221,10 +221,10 @@
 
 #### 30. Suppose you place text in a frame, but the text is too close to the frame edge. What feature will help you adjust this?
 
-- [x] Type > Insert White Space
+- [ ] Type > Insert White Space
 - [ ] Window > Text Wrap
 - [ ] Object > Arrange
-- [ ] Object > Text Frame Options
+- [x] Object > Text Frame Options
 
 #### 31. You are creating a flyer to be printed, and you want the background color to extend past the edge of the page. Which setting in the New Document dialog box will help you accomplush this??
 
@@ -241,7 +241,7 @@
 -D. Lock guides has been enabled.
 -E. The guides are on a master page.
 
-- [ ] B, D, E (maybe)
+- [x] B, D, E
 - [ ] C, D, E
 - [ ] A, B, C
 - [ ] B, C, D
@@ -262,29 +262,29 @@
     E. If the image is in RGB mode, the text color is also set to RGB mode.
 
 - [ ] A, B, D
-- [ ] A, C, E
+- [x] A, C, E
 - [ ] B, D, E
-- [ ] B, C, D (maybe)
+- [ ] B, C, D
 
 #### 35. In an interactive document, you want two objects to fade in simultaneously on the page. Which panel helps you do this?
 
-- [ ] Animation panel
+- [x] Animation panel
 - [ ] Media panel
 - [ ] Page Transitions panel
-- [x] Timing panel
+- [ ] Timing panel
 
 #### 36. What do you know about the selected hyperlink?
 
-- [x] The url is broken
+- [ ] The url is broken
 - [ ] the object is on the red layer
-- [ ] the hyperlink is stopped or paused
+- [x] the hyperlink is stopped or paused
 - [ ] the content of the hyperlink is anchored
 
 #### 37. You have a paragraph style called Heading applied to text throughout a document. You modify the formatting of Heading in one paragraph, and would like this formatting to apply to all paragraphs with the Heading style applied. Which command would you accomplish this task
 
 - [ ] Break link to style
 - [ ] Update Style
-- [x] Redefine Style (pretty sure)
+- [x] Redefine Style
 - [ ] New style
 
 #### 38. What is a key difference between File > Document Setup and File > Adjust Layout?
@@ -296,8 +296,8 @@
 
 #### 39. Which feature is available for both the Adobe PDF (interactive) and Adobe PDF (Print) export options?
 
-- [ ] hyperlinks
-- [x] form fields
+- [x] hyperlinks
+- [ ] form fields
 - [ ] page transitions
 - [ ] audio annotations
 
